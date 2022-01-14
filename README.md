@@ -1,2 +1,2 @@
 # disrupt-ai
-ai
+Simple ai built using web speech api
